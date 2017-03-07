@@ -1,0 +1,1 @@
+robocopy "E:\Projects\CopyFiles\Files Source" "E:\Projects\CopyFiles\Files Destination" /E /R:0 /DCOPY:T /Z
